@@ -1,6 +1,13 @@
-## Hi there 👋
+## **Hello**! 👋
+
+My name is Ryan, and I am passionate about technology and a lifelong learner. 
+From an early age, programming sparked my curiosity,
+and that’s when I embarked on this incredible journey of coding, 
+challenges, and innovation!
+
 
 <!--
+
 **ferreiraryan/ferreiraryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
