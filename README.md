@@ -3,7 +3,7 @@
 My name is Ryan, and I am passionate about technology and a lifelong learner. From an early age, programming sparked my curiosity,and that’s when I embarked on this incredible journey of coding, challenges, and innovation!
 
 [![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FerRyan)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/FerRyan)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_ryan_ferreira?igsh=MTVweHgyM2p1Ym1wcA%3D%3D&utm_source=qr)
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreiraryan&show_icons=true&theme=dracula)
 
