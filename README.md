@@ -38,19 +38,6 @@ personalizar meu ambiente de trabalho no terminal (Neovim, dotfiles, tiling WM).
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferreiraryan&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Ryan's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferreiraryan&theme=dracula&hide_border=true" alt="Ryan's GitHub streak" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraryan&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="165"/>
-</div>
-
----
-
 ## 🧰 Tecnologias
 
 ### 🌐 Frontend
